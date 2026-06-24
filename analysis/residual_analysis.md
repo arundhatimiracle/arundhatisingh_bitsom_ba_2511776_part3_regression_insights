@@ -11,6 +11,7 @@ Largest Positive Residuals
 | 914544.17 | 815125.02 | 99419.15 |
 
 Interpretation
+
 These stores performed significantly better than predicted by the model. The model under-predicted sales for these stores, indicating that additional factors not included in the model may be influencing sales performance.
 
 Largest Negative Residuals
