@@ -39,3 +39,19 @@
 
 ## Variables Not Useful for Regression
 - store_id
+
+
+# Task 3: Create Dummy Variables 
+
+## Dummy Variable Approach
+
+The categorical variable `store_type` was converted into dummy variables for regression analysis.
+
+Reference Category:
+- Airport
+
+Dummy Variables Created:
+- Residential_Dummy
+- HighStreet_Dummy
+
+Airport stores were used as the baseline category. Residential and High Street stores were compared against Airport stores using dummy variables.
